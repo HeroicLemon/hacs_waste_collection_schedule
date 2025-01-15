@@ -17802,6 +17802,30 @@
         },
         "data_description": {}
       },
+      "args_choicewaste-portal_navusoft_net": {
+        "title": "Quelle konfigurieren",
+        "description": "Konfiguriere deinen Service Provider. Mehr details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/choicewaste-portal_navusoft_net.md",
+        "data": {
+          "calendar_title": "Kalender Titel",
+          "password": "Passwort",
+          "site_id": "Site Id",
+          "username": "Benutzername"
+        },
+        "data_description": {
+          "calendar_title": "Ein lesbarerer oder benutzerfreundlicherer Name für den Müllkalender. Wenn nichts angegeben wird, wird der Name der Quelle verwendet."
+        }
+      },
+      "reconfigure_choicewaste-portal_navusoft_net": {
+        "title": "Quelle Neu Konfigurieren",
+        "description": "Konfiguriere deinen Service Provider. Mehr details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/choicewaste-portal_navusoft_net.md",
+        "data": {
+          "calendar_title": "Kalender Titel",
+          "password": "Passwort",
+          "site_id": "Site Id",
+          "username": "Benutzername"
+        },
+        "data_description": {}
+      },
       "args_lacity_gov": {
         "title": "Quelle konfigurieren",
         "description": "Konfiguriere deinen Service Provider. \n\nEnter your street address exactly as it appears on your LA Sanitation bill. The address must be within Los Angeles city limits.\n\nMehr details: https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/lacity_gov.md",

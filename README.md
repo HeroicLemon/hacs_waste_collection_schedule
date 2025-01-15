@@ -2390,6 +2390,7 @@ If your service provider is not listed, feel free to open a [source request issu
 <summary>United States of America</summary>
 
 - [Albuquerque, New Mexico, USA](/doc/source/recyclecoach_com.md) / recyclecoach.com/cities/usa-nm-city-of-albuquerque
+- [Choice Waste Services](/doc/source/choicewaste-portal_navusoft_net.md) / choicewasteservices.com
 - [City of Austin, TX](/doc/ics/recollect.md) / austintexas.gov
 - [City of Bloomington](/doc/ics/recollect.md) / bloomington.in.gov
 - [City of Cambridge](/doc/ics/recollect.md) / cambridgema.gov

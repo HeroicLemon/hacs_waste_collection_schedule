@@ -15313,6 +15313,12 @@
       "id": "recyclecoach_com"
     },
     {
+      "title": "Choice Waste Services",
+      "module": "choicewaste-portal_navusoft_net",
+      "default_params": {},
+      "id": "choicewaste-portal_navusoft_net"
+    },
+    {
       "title": "City of Austin, TX",
       "module": "ics",
       "default_params": {
